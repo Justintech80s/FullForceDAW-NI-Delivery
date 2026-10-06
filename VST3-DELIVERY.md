@@ -8,6 +8,12 @@
 - Windows: x64
 - macOS: Universal `arm64 + x86_64`
 
+## Authoritative CircleCI artifact page
+
+https://app.circleci.com/pipelines/github/Justintech80s/Just-Soundz/414/workflows/full-force-daw-vst3/jobs/501/artifacts
+
+This page belongs to the successful **release-preflight (501)** job and contains the CI-produced Native Instruments delivery artifacts for the frozen candidate. It is the source for the exact customer installers and accompanying QA/integrity evidence; do not substitute rebuilt binaries.
+
 ## Customer installers
 **Windows:** `FullForceDAW-2.1-Windows-x64-Setup.exe`  
 VST3 destination: `C:\Program Files\Common Files\VST3`
