@@ -11,6 +11,12 @@
 
 The validated CircleCI chain passed web/native tests, Windows VST3 validation, Windows customer-installer QA, macOS VST3/package/host QA, and the combined release preflight.
 
+## Official CircleCI release artifacts
+
+**Artifact page:** https://app.circleci.com/pipelines/github/Justintech80s/Just-Soundz/414/workflows/full-force-daw-vst3/jobs/501/artifacts
+
+This is the successful CircleCI **release-preflight job 501** artifact page for the frozen release candidate. It holds the Native Instruments delivery outputs produced by CI, including the validated Windows customer installer, macOS customer package, NI delivery manifest/checklist, installer SHA-256 information, combined preflight evidence, and Windows/macOS QA evidence. Use this page as the authoritative CI download source for the frozen artifacts.
+
 ## Customer delivery
 | Platform | Customer artifact | Status |
 | --- | --- | --- |
